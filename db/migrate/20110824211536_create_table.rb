@@ -5,7 +5,7 @@ class CreateTable < ActiveRecord::Migration
     #   t.string :email
     # 
     #   t.timestamps
-    end
+    # end
   end
 
   def self.down
